@@ -73,4 +73,4 @@ python3 detector.py
 
 ## Sample SOC Triage Output
 
-![SOC Detection Output](screenshots/01-ml-soc-detection.png)
+![SOC Detection Output](screenshots/01-ml-soc-dectection.png)
